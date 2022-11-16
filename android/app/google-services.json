@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47120903446",
+    "project_id": "findtrackapp-c1afb",
+    "storage_bucket": "findtrackapp-c1afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47120903446:android:d2cd2ab50ae67cf292b437",
+        "android_client_info": {
+          "package_name": "com.example.shazam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47120903446-8c4gi2c3k9t65r5hp4jsnhg2cuafto2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shazam",
+            "certificate_hash": "2c7d9d66b9ee168e3d8b9b475c1bbdc122ef4970"
+          }
+        },
+        {
+          "client_id": "47120903446-hkfkglvrlnht7oq7a219t7qgqbvlgchl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmlv_pddJ2RAOtw1AV0_i7kFzs4KnwEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47120903446-hkfkglvrlnht7oq7a219t7qgqbvlgchl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
